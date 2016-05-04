@@ -1,0 +1,55 @@
+ody {
+    margin: 0;
+    padding: 0;
+}
+
+body div {
+    width: 100%;
+}
+
+.nav {
+    height: 100px;
+}
+
+.content {
+    background-color: lightgrey;
+    height: 500px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+#home {
+    background-color: #ADD8E6
+}
+
+#o_meni {
+    background-color: #F08080
+}
+
+#moji_projekti {
+    background-color: #E0FFFF
+}
+
+#blog {
+    background-color: #FAFAD2
+}
+
+#kontakt {
+    background-color: #90EE90
+}
+
+.nav_content {
+    margin-left: 30%;
+}
+
+.nav_content h3 {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+body a {
+    text-decoration: none;
+}
